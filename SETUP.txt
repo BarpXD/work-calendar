@@ -1,0 +1,4 @@
+
+# Ничего дополнительно ставить не нужно.
+# Для запуска на ПК:
+python -m pip install -r requirements.txt
