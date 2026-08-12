@@ -31,9 +31,6 @@ fullscreen = 0
 # (str) Android API to target
 android.api = 35
 
-# (str) Android NDK version
-android.ndk = 27.3.13750724
-
 # (str) Minimum Android API
 android.minapi = 23
 
