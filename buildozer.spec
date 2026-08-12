@@ -20,7 +20,7 @@ source.include_exts = py,png,jpg,kv,atlas,db
 version = 0.1.0
 
 # (list) Python requirements
-requirements = python3,kivy==2.3.1
+requirements = python3==3.13.7,kivy==2.3.1
 
 # (str) Orientation
 orientation = portrait
@@ -32,7 +32,7 @@ fullscreen = 0
 android.api = 35
 
 # (str) Android NDK version
-android.ndk = 29
+android.ndk = 27.3.13750724
 
 # (str) Minimum Android API
 android.minapi = 23
