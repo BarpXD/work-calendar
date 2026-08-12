@@ -20,7 +20,7 @@ source.include_exts = py,png,jpg,kv,atlas,db
 version = 0.1.0
 
 # (list) Python requirements
-requirements = python3==3.13.7,kivy==2.3.1
+requirements = python3,kivy==2.3.1
 
 # (str) Orientation
 orientation = portrait
